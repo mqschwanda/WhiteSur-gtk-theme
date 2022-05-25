@@ -3,7 +3,7 @@ name: Glitch
 about: Report unexpected behavior or something doesn't work
 title: ''
 labels: 'bug'
-assignees: 'vinceliuice'
+assignees: 'mqschwanda'
 
 ---
 

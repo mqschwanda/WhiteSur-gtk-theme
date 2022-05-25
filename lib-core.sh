@@ -322,7 +322,7 @@ signal_error() {
   fi
 
   prompt -i "HINT: You can google or report to us the info above \n"
-  prompt -i "https://github.com/vinceliuice/WhiteSur-gtk-theme/issues \n"
+  prompt -i "https://github.com/mqschwanda/WhiteSur-gtk-theme/issues \n"
 
   rm -rf "${WHITESUR_TMP_DIR}"; exit 1
 }
